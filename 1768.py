@@ -20,3 +20,6 @@ class Solution:
             result += word1[len(iteration):]
 
         return result
+
+
+#https://leetcode.com/problems/merge-strings-alternately/description/ 
